@@ -28,10 +28,8 @@ Follow the prompts:
 ```
 Enter the URL: [https://www.example.com](https://github.com/Kaelinkes)
 Display QR code? (Y/n): Y
-
-<img width="370" height="370" alt="qrcode" src="https://github.com/user-attachments/assets/92a1737a-e043-4c24-9e45-6f52a0da4b0c" />
-
 ```
+<img width="370" height="370" alt="qrcode" src="https://github.com/user-attachments/assets/92a1737a-e043-4c24-9e45-6f52a0da4b0c" />
 
 ---
 
